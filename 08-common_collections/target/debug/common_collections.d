@@ -1,0 +1,1 @@
+/home/sales/Documents/programming/sketches/rust/the-rust-walkthrough/08-common_collections/target/debug/common_collections: /home/sales/Documents/programming/sketches/rust/the-rust-walkthrough/08-common_collections/src/main.rs
