@@ -1,0 +1,1 @@
+/home/sales/Documents/programming/sketches/rust/the-rust-walkthrough/09-error-handling/target/debug/error-handling: /home/sales/Documents/programming/sketches/rust/the-rust-walkthrough/09-error-handling/src/main.rs
