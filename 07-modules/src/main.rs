@@ -22,4 +22,5 @@ fn main() {
 
     println!("{:?} {:?}", network::IpType::V4 , network::IpType::V6);
     println!("{:?} {:?} {:?}", Red, Green, Blue);
+
 }

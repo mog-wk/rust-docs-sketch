@@ -1,7 +1,7 @@
 use std::ops::Add;
 
 mod assets;
-
+use crate::assets::summary::Summary;
 
 #[derive(Debug)]
 struct Point<T> {
@@ -47,6 +47,13 @@ fn main() {
 
     println!("{:?} {:?}", int_point, flo_point);
     println!("{:?}", flo_point + flo_point_I);
+
+    let tweet = assets::summary::Tweet {
+        username: "pepega".to_string(),
+        content: String::from("this is my first tweet :)"),
+        reply: false, retweet: false 
+    };
+    println!("{}", tweet.summary());
 }
 
 #[warn(dead_code)]
