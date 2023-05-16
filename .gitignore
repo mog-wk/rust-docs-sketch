@@ -1,1 +1,11 @@
 sketch
+01-hello-cargo/target: debug CACHEDIR.TAG
+02-guessing-game/target: debug CACHEDIR.TAG
+03-data-types/target: debug CACHEDIR.TAG
+04-ownership/target: debug CACHEDIR.TAG
+05-structs/target: debug CACHEDIR.TAG
+06-enums-and-patten-matching/target: debug CACHEDIR.TAG
+07-modules/target: debug CACHEDIR.TAG
+08-common_collections/target: debug CACHEDIR.TAG
+09-error-handling/target: debug CACHEDIR.TAG
+10-generic-traits-lifetimes/target: debug CACHEDIR.TAG 
