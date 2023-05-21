@@ -1,0 +1,1 @@
+/home/sales/Documents/programming/study/rust/the-rust-walkthrough/11-automated-tests/target/debug/automated-tests: /home/sales/Documents/programming/study/rust/the-rust-walkthrough/11-automated-tests/src/main.rs
