@@ -29,6 +29,13 @@ mod tests {
         assert_ne!(r3.can_hold(&r1), true);
         assert_ne!(r1.can_hold(&r1), true);
     }
+    #[test]
+    #[should_panic]
+    fn panic_test() {
+        panic!();
+        assert_eq!(4u32 + 4u16 as u32, 8u32);
+    }
+
 }
 
 
