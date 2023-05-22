@@ -1,11 +1,23 @@
 sketch
-01-hello-cargo/target: debug CACHEDIR.TAG
-02-guessing-game/target: debug CACHEDIR.TAG
-03-data-types/target: debug CACHEDIR.TAG
-04-ownership/target: debug CACHEDIR.TAG
-05-structs/target: debug CACHEDIR.TAG
-06-enums-and-patten-matching/target: debug CACHEDIR.TAG
-07-modules/target: debug CACHEDIR.TAG
-08-common_collections/target: debug CACHEDIR.TAG
-09-error-handling/target: debug CACHEDIR.TAG
-10-generic-traits-lifetimes/target: debug CACHEDIR.TAG 
+01-hello-cargo/Cargo.lock
+01-hello-cargo/target
+02-guessing-game/Cargo.lock
+02-guessing-game/target
+03-data-types/Cargo.lock
+03-data-types/target
+04-ownership/Cargo.lock
+04-ownership/target
+05-structs/Cargo.lock
+05-structs/target
+06-enums-and-patten-matching/Cargo.lock
+06-enums-and-patten-matching/target
+07-modules/Cargo.lock
+07-modules/target
+08-common_collections/Cargo.lock
+08-common_collections/target
+09-error-handling/Cargo.lock
+09-error-handling/target
+10-generic-traits-lifetimes/Cargo.lock
+10-generic-traits-lifetimes/target
+11-automated-tests/Cargo.lock
+11-automated-tests/target
