@@ -1,4 +1,3 @@
-sketch
 01-hello-cargo/Cargo.lock
 01-hello-cargo/target
 02-guessing-game/Cargo.lock
@@ -21,3 +20,5 @@ sketch
 10-generic-traits-lifetimes/target
 11-automated-tests/Cargo.lock
 11-automated-tests/target
+12-grep-clone/Cargo.lock
+12-grep-clone/target
