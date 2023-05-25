@@ -57,6 +57,7 @@ pub fn search<'a>(query: &str, content: &'a str) -> Vec<&'a str> {
     results
 }
 
+// run CASE_INSENSITIVE=1 cargo run ..
 pub fn search_insensitive<'a>(query: &str, content: &'a str) -> Vec<&'a str> {
     let mut results: Vec<&str> = Vec::new();
 
