@@ -5,9 +5,7 @@ use std::process;
 use grepclone::Config;
 
 fn main() {
-    let args: Vec<String> = env::args().collect(); // env::args() return an iterator .collect() turns iter into vec
-
-    let config: Config = grepclone::Config::new(&args).unwrap_or_else(|err| {
+    let config: Config = grepclone::Config::new(env::args()).unwrap_or_else(|err| {
         eprintln!("problem parsing arguments: {}", err);
         usage();
         process::exit(1);
