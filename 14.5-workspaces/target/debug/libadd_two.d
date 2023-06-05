@@ -1,0 +1,1 @@
+/home/sales/Documents/programming/study/rust/the-rust-walkthrough/14.5-workspaces/target/debug/libadd_two.rlib: /home/sales/Documents/programming/study/rust/the-rust-walkthrough/14.5-workspaces/add_two/src/lib.rs
