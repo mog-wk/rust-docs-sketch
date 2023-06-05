@@ -24,3 +24,5 @@
 12-grep-clone/target
 13-iter-closures/Cargo.lock
 13-iter-closures/target
+14-cargo-crates-io/Cargo.lock
+14-cargo-crates-io/target
