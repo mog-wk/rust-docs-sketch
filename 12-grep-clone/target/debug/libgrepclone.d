@@ -1,0 +1,1 @@
+/home/sales/Documents/programming/study/rust/the-rust-walkthrough/12-grep-clone/target/debug/libgrepclone.rlib: /home/sales/Documents/programming/study/rust/the-rust-walkthrough/12-grep-clone/src/lib.rs
