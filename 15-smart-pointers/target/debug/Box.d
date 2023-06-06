@@ -1,0 +1,1 @@
+/home/sales/Documents/programming/study/rust/the-rust-walkthrough/15-smart-pointers/target/debug/Box: /home/sales/Documents/programming/study/rust/the-rust-walkthrough/15-smart-pointers/Box/src/main.rs
