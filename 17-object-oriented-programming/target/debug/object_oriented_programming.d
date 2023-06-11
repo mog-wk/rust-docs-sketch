@@ -1,0 +1,1 @@
+/home/sales/Documents/programming/study/rust/the-rust-walkthrough/17-object-oriented-programming/target/debug/object_oriented_programming: /home/sales/Documents/programming/study/rust/the-rust-walkthrough/17-object-oriented-programming/src/lib.rs /home/sales/Documents/programming/study/rust/the-rust-walkthrough/17-object-oriented-programming/src/main.rs
